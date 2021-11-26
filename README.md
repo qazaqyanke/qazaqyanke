@@ -33,20 +33,3 @@ if __name__ == '__main__':
 
 
 ```
-### hey there 
-
-<a href = "https://t.me/qazaqyanke">
-    <img src = "https://github.com/qazaqyanke/qazaqyanke/blob/main/telegram.png?raw=true">
-</a>
-
-<a href = "https://open.spotify.com/user/kajaio5w7tziv1ns1767azu6w?si=65dfefeeb98d4814">
-    <img src = "https://github.com/qazaqyanke/qazaqyanke/blob/main/spotify.png?raw=true">
-</a>
-
-<a href = "https://www.linkedin.com/in/beisebay-kuandykov-9647061a6/">
-    <img src = "https://github.com/qazaqyanke/qazaqyanke/blob/main/linkedin.png?raw=true">
-</a>
-
-<a href = "https://www.instagram.com/qazaqyanke">
-    <img src = "https://github.com/qazaqyanke/qazaqyanke/blob/main/instagram.png?raw=true"> 
-</a>
