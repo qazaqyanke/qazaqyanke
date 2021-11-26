@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/qazaqyanke/qazaqyanke/blob/main/tumblr_ad000fecf73dd5c1030b0d66d9034e25_9a567524_640.gif" width="1000">
+<img align="center" src="https://github.com/qazaqyanke/qazaqyanke/blob/main/Без названия.gif" width="1000">
 
 # Hello World ! I am Beisebay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
