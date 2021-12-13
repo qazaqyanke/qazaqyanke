@@ -18,7 +18,7 @@ class qazaqyanke:
         self.username = 'qazaqyanke'
         self.name = 'Kuandykov Beisebay'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
             'backend' : ['Python', 'PHP', 'NodeJS'],
             'databases': ['Mongo', 'MS SQL']
            
