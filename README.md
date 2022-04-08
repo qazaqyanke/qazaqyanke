@@ -2,7 +2,7 @@
 
 # Hello World ! I am Beisebay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Cybersecurity student
+## I'm a Computer Science student
 
 ### Technologies & Tools
 
@@ -10,26 +10,12 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
 
-```python
+```javascript
 
-class qazaqyanke:
-
-    def __init__(self):
-        self.username = 'qazaqyanke'
-        self.name = 'Kuandykov Beisebay'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
-            'backend' : ['Python', 'PHP', 'NodeJS'],
-            'databases': ['Mongo', 'MS SQL']
-           
-        }
-        
-    def __str__(self):
-        return self.name
-
-
-if __name__ == '__main__':
-    me = qazaqyanke()
+const qazaqyanke = {
+    code:[JavaScript, TypeScript, Java],
+    tools:[MongoDB, Express, React, NodeJS]
+}
 
 
 ```
