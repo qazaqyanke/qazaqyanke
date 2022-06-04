@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/qazaqyanke/qazaqyanke/blob/main/Без названия.gif" width="1000">
 
-# Hello World ! I am Beisebay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello World ! I am Beisebay
 
 ## I'm a Computer Science student
 
